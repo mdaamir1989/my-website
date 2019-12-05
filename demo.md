@@ -1,6 +1,4 @@
 #Mark down
 Demo file
 
-Update from example branch
-
-More edits from local git branch
+Updates made on master on Github before rebase
